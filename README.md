@@ -9,7 +9,7 @@ class say_hello:
     def __repr__(self) -> str:
         return self.__str__()
 if __name__ == "__main__":
-    print(say_hello("Hello there 👋, I'm MhankBarBar, Nice to meet you all!"))
+    print(say_hello("DESCUBRA MAIS DE MIL MANEIRAS DE DIVERSIFICAR O SEU NEGOCIO!"))
 ```
 
-DESCUBRA MAIS DE MIL MANEIRAS DE DIVERSIFICAR O SEU NEGOCIO!
+𝑺𝑰𝑳𝑽𝑬𝑹 𝑺𝑻𝑨𝑹𝑺
