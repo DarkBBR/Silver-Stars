@@ -17,19 +17,19 @@ if __name__ == "__main__":
 **📜Bem-Vindo(a) Ao GitHub Da SILVER STARS** 
 ---
 ```text
-🌞 Dia          213 commits    ██████████████ 59.52% 
-🌆 Tarde        126 commits    ████ 27.24% 
-🌃 Escurecendo  180 commits    ███████████████████ 70.48% 
-🌙 Noite        130 commits    █████████████████████████  100.00%
+🌞 Dia          190 Comprometimento   ██████████████ 59.52% 
+🌆 Tarde        125 Comprometimento   ████ 27.24% 
+🌃 Escurecendo  210 Comprometimento    ███████████████████ 70.48% 
+🌙 Noite        250 Comprometimento    █████████████████████████  100.00%
 ```
 ---
 ```text
 💬 Linguagens de Programação: 
-**Python**, **JavaScript**, **HTML5** e **CSS3*
+Python, JavaScript, HTML5 e CSS3
 
 🔥 EQUIPE: 
-**IZA**, **VALENTIM**, **RONY** e **BDARKBR**
+IZA, VALENTIM, RONY e BDARKBR
 
 💻 Tempo de Trabalho: 
-**Estamos trabalhando desde 2019**
+Estamos trabalhando desde 2019
 ```
