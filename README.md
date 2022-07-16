@@ -1,3 +1,6 @@
+
+<img width="80%" align="center" height="auto" src="https://github.com/DarkBBR/Silver-Stars/blob/main/bg.jpeg">
+
 # Silver-Stars
 ---
 ```python
