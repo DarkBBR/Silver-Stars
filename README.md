@@ -44,15 +44,6 @@ CSS               ███████████ 55.45%
 Design            █████████████████████ 80.89%
 ```
 ---
-```html
-<div class="text">BOM ENTÃO ESTE É O GITHUB DA SILVER STARS ESPERAMOS QUE TENHAM GOSTADO E FUTURAMENTE ADICIONAREMOS MAIS E MAIS COISAS... NÃO ESQUEÇA DE NOS SEGUIR NO GITHUB VLW</div>
-<style>
-.text{
-color: red;
-font-size: 2.5rem;
-text-shadow: 11px 3px 8px rgb(0, 255, 81);
-text-transform: uppercase;
-font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-</style>
+```JavaScript
+echoe: `BOM ENTÃO ESTE É O GITHUB DA SILVER STARS ESPERAMOS QUE TENHAM GOSTADO E FUTURAMENTE ADICIONAREMOS MAIS E MAIS COISAS... NÃO ESQUEÇA DE NOS SEGUIR NO GITHUB VLW`
 ```
