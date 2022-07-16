@@ -14,4 +14,4 @@ if __name__ == "__main__":
 ---
 𝑺𝑰𝑳𝑽𝑬𝑹 𝑺𝑻𝑨𝑹𝑺
 
-**🐱 My GitHub Data** 
+**📜Bem-Vindo(a) Ao GitHub Da SILVER STARS** 
