@@ -1,6 +1,8 @@
 
 <img width="80%" align="center" height="auto" src="https://github.com/DarkBBR/Silver-Stars/blob/main/bg.jpeg">
 
+
+<div ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)</div>
 # Silver-Stars
 ---
 ```python
